@@ -1,0 +1,6 @@
+package="Minecraft"
+version="0.1"
+maintainer="Moi Même"
+description="minecraft"
+arch="noarch"
+reloadui="no"
